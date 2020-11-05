@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Feedback effects | Shuaiyu Chen</title>
-    <link>https://www.shuaiyuchen.com/tag/feedback-effects/</link>
-      <atom:link href="https://www.shuaiyuchen.com/tag/feedback-effects/index.xml" rel="self" type="application/rss+xml" />
-    <description>Feedback effects</description>
+    <title>Ron Kaniel | Shuaiyu Chen</title>
+    <link>https://www.shuaiyuchen.com/author/ron-kaniel/</link>
+      <atom:link href="https://www.shuaiyuchen.com/author/ron-kaniel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ron Kaniel</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 16 Oct 2020 19:09:25 -0400</lastBuildDate>
     <image>
       <url>https://www.shuaiyuchen.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Feedback effects</title>
-      <link>https://www.shuaiyuchen.com/tag/feedback-effects/</link>
+      <title>Ron Kaniel</title>
+      <link>https://www.shuaiyuchen.com/author/ron-kaniel/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://www.shuaiyuchen.com/project/security-lending/</link>
       <pubDate>Fri, 16 Oct 2020 19:09:25 -0400</pubDate>
       <guid>https://www.shuaiyuchen.com/project/security-lending/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>What do managers learn from stock prices? Evidence from cross-border mergers and acquisitions</title>
-      <link>https://www.shuaiyuchen.com/project/cross-border-ma/</link>
-      <pubDate>Fri, 16 Oct 2020 19:09:25 -0400</pubDate>
-      <guid>https://www.shuaiyuchen.com/project/cross-border-ma/</guid>
       <description></description>
     </item>
     
