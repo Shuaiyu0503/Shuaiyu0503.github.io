@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3 | Shuaiyu Chen</title>
+    <link>https://www.shuaiyuchen.com/publication-type/3/</link>
+      <atom:link href="https://www.shuaiyuchen.com/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
+    <description>3</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 20 Sep 2020 19:15:13 -0400</lastBuildDate>
+    <image>
+      <url>https://www.shuaiyuchen.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>3</title>
+      <link>https://www.shuaiyuchen.com/publication-type/3/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Active Fund Performance with Aggregate Idiosyncratic Volatility</title>
+      <link>https://www.shuaiyuchen.com/publication/aiv-and-active-fund-performance/</link>
+      <pubDate>Thu, 10 Sep 2020 19:09:25 -0400</pubDate>
+      <guid>https://www.shuaiyuchen.com/publication/aiv-and-active-fund-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Do Institutional Investors Affect Media Coverage? The Role of Common Ownership </title>
+      <link>https://www.shuaiyuchen.com/publication/common-ownership-and-media/</link>
+      <pubDate>Sun, 20 Sep 2020 19:15:13 -0400</pubDate>
+      <guid>https://www.shuaiyuchen.com/publication/common-ownership-and-media/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

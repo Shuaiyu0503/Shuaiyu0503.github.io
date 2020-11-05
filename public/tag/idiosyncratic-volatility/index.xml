@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idiosyncratic Volatility | Shuaiyu Chen</title>
+    <link>https://www.shuaiyuchen.com/tag/idiosyncratic-volatility/</link>
+      <atom:link href="https://www.shuaiyuchen.com/tag/idiosyncratic-volatility/index.xml" rel="self" type="application/rss+xml" />
+    <description>Idiosyncratic Volatility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 10 Sep 2020 19:09:25 -0400</lastBuildDate>
+    <image>
+      <url>https://www.shuaiyuchen.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Idiosyncratic Volatility</title>
+      <link>https://www.shuaiyuchen.com/tag/idiosyncratic-volatility/</link>
+    </image>
+    
+    <item>
+      <title>Predicting Active Fund Performance with Aggregate Idiosyncratic Volatility</title>
+      <link>https://www.shuaiyuchen.com/publication/aiv-and-active-fund-performance/</link>
+      <pubDate>Thu, 10 Sep 2020 19:09:25 -0400</pubDate>
+      <guid>https://www.shuaiyuchen.com/publication/aiv-and-active-fund-performance/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
